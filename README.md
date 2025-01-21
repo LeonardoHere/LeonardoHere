@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my profile page
 
-A sixth semester information systems student who is actively pursuing a degree specializing in big data analysis and is seeking opportunities to intern as a data analyst or scientist in business decision support for the seventh semester. Have an honest, responsible attitude and be able to work under pressure to complete tasks. Successfully completed various projects related to data visualization and data science using machine learning methods.
+A eight semester information systems student who is actively pursuing a degree specializing in big data analysis and is seeking opportunities to intern as a data analyst or scientist in business decision support for the seventh semester. Have an honest, responsible attitude and be able to work under pressure to complete tasks. Successfully completed various projects related to data visualization and data science using machine learning methods.
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@ A sixth semester information systems student who is actively pursuing a degree s
 ## 🛠️ Skills
 
 - **Data Visualization/Analytics:** Looker Studio, Tableau, Microsoft PowerBI, SAS Viya.
-- **Tools and Framework:** Python (Jupyter, Pandas, NumPy,Scikit-learn, Seaborn), Database (Microsoft SQL Server, MySQL, BigQuery).
+- **Tools and Framework:** Python (Jupyter, Pandas, NumPy,Scikit-learn, Seaborn), Database (PostgreSQL, Microsoft SQL Server, MySQL, BigQuery).
 - **Additional Proficiencies:** Microsoft Excel, Adobe Photoshop & Illustrator, Java, HTML, CSS, Figma.
 
 <p align="Center">
