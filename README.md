@@ -4,9 +4,8 @@ A highly motivated and detail-oriented Information Systems graduate with a stron
 
 ## 🚀 About Me
 
--  Currently pursuing a major in Information Systems with a minor in Big Data Analytics at Universitas Multimedia Nusantara.
+-  fresh graduate in Information Systems with a minor in Big Data Analytics at Universitas Multimedia Nusantara.
 -  Exploring the realms of Data Science, Data Analyst, Data Visualization, and Machine Learning.
--  Actively seeking internship opportunities to integrate my academic knowledge with practical experience.
 
 ## 🛠️ Skills
 
