@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my profile page
 
-A eight semester information systems student who is actively pursuing a degree specializing in big data analysis and is seeking opportunities to intern as a data analyst or scientist in business decision support for the seventh semester. Have an honest, responsible attitude and be able to work under pressure to complete tasks. Successfully completed various projects related to data visualization and data science using machine learning methods.
+A highly motivated and detail-oriented Information Systems graduate with a strong foundation in software development and web technologies. Experienced in developing full-stack web applications using modern frameworks and tools. Demonstrates an honest, responsible attitude and the ability to work under pressure to complete tasks effectively. Successfully completed various projects related to web application development, software engineering, and implementing full-stack solutions using modern frameworks and tools.
 
 ## 🚀 About Me
 
